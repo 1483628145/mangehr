@@ -1,8 +1,9 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: 'Hr管理系统',
 
   /**
+   * 项目初始设置
    * @type {boolean} true | false
    * @description Whether fix the header
    */
@@ -12,5 +13,5 @@ module.exports = {
    * @type {boolean} true | false
    * @description Whether show the logo in sidebar
    */
-  sidebarLogo: false
+  sidebarLogo: true
 }
